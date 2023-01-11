@@ -115,8 +115,8 @@ class _MyHomePageState extends State<MyHomePage> {
       bluetooth.printCustom('Hello', 2, 0);
       bluetooth.printQRcode(
         "00020101021126570011ID.DANA.WWW011893600915312913148402091291314840303UMI51440014ID.CO.QRIS.WWW0215ID10210681486540303UMI5204721053033605802ID5913Cinta Laundry6014Kab. Tangerang6105155606304CC53",
-        200,
-        200,
+        300,
+        300,
         1,
       );
       bluetooth.printNewLine();
